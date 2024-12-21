@@ -4,7 +4,11 @@
     {
         static void Main(string[] args)
         {
-            // AdSoyad sınıfındaki Yazdir metodunu çağırıyoruz
+
+            // Classlardaki metodları burdan çağırdım kullanmadıklarımı '//' ile kapattım.
+            // Terminalde sürekli onlarla işlem yapmak istemedim.
+
+           
             //AdSoyad.Yazdir();
             //SayiTahminOyunu.SayiTahminYazdir();
             //HesapMakinesi.HesapMakinesiYazdir();
